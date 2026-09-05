@@ -6,8 +6,8 @@
 
 `Full-Stack Development` • `AI & Machine Learning` • `Software Testing`
 
-<a href="https://www.linkedin.com/in/asem-shaltout"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:asemsherifshaltout@gmail.com"><img width="40" height="40" src="https://cdn.simpleicons.org/gmail/EA4335" title="Email" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/asem-shaltout"><img width="44" height="44" src="assets/linkedin-card.svg" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:asemsherifshaltout@gmail.com"><img width="44" height="44" src="assets/gmail-card.svg" title="Email" alt="Email" /></a>
 
 </div>
 
@@ -47,7 +47,7 @@ Real-time full-stack platform with role-based workspaces for restaurant teams, c
   <img width="48" height="48" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" alt="Streamlit" />
+  <img width="48" height="48" src="assets/streamlit-card.svg" title="Streamlit" alt="Streamlit" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" />
 </p>
 
@@ -56,18 +56,18 @@ Real-time full-stack platform with role-based workspaces for restaurant teams, c
 <p align="center">
   <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Cloud Firestore" alt="Cloud Firestore" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" />
-  <img height="48" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" title="SQL" alt="SQL" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" />
+  <img width="48" height="48" src="assets/sql-card.svg" title="SQL" alt="SQL" />
+  <img width="48" height="48" src="assets/sqlserver-card.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" />
 </p>
 
 ## 🧪 Testing
 
 <p align="center">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" />
-  <img width="48" height="48" src="assets/jmeter.png" title="Apache JMeter" alt="Apache JMeter" />
-  <img width="48" height="48" src="assets/katalon.png" title="Katalon Studio" alt="Katalon Studio" />
+  <img width="48" height="48" src="assets/playwright-card.svg" title="Playwright" alt="Playwright" />
+  <img width="48" height="48" src="assets/vitest-card.svg" title="Vitest" alt="Vitest" />
+  <img width="48" height="48" src="assets/selenium-card.svg" title="Selenium" alt="Selenium" />
+  <img width="48" height="48" src="assets/jmeter-card.svg" title="Apache JMeter" alt="Apache JMeter" />
+  <img width="48" height="48" src="assets/katalon-card.svg" title="Katalon Studio" alt="Katalon Studio" />
 </p>
 
 ## 🔧 Tools & Platforms
@@ -77,7 +77,7 @@ Real-time full-stack platform with role-based workspaces for restaurant teams, c
   <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" alt="Visual Studio Code" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" />
+  <img width="48" height="48" src="assets/jupyter-card.svg" title="Jupyter" alt="Jupyter" />
 </p>
 
 ---
