@@ -6,8 +6,8 @@
 
 `Full-Stack Development` • `AI & Machine Learning` • `Software Testing`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-shaltout)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemsherifshaltout@gmail.com)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/asem-shaltout)
+[![Email](https://cdn.simpleicons.org/gmail/EA4335)](mailto:asemsherifshaltout@gmail.com)
 
 </div>
 
@@ -15,12 +15,11 @@
 
 ## 👨‍💻 About Me
 
-Software Engineering graduate with dual degrees from **MSA University** and the **University of Greenwich**. I build full-stack applications, develop AI-powered solutions, and create reliable automated test suites. I enjoy taking ideas from requirements and system design through implementation, validation, and deployment.
+Software Engineering graduate with dual degrees from **MSA University** and the **University of Greenwich** (B.Sc. in Computer Science — Software Engineering). I build full-stack applications, develop AI-powered solutions, and create reliable automated test suites. I enjoy taking ideas from requirements and system design through implementation, validation, and deployment.
 
-- 💼 Completed a rotational Software Engineering internship at **eVision | Digital Financial Systems (Fintech)**
-- 🎓 B.Sc. in Computer Science — Software Engineering
-- 👨‍🏫 Former coding instructor who taught **200+ students** programming and AI fundamentals
 - 📍 Based in Giza, Egypt
+- 💼 Completed a rotational Software Engineering internship at **eVision | Digital Financial Systems (Fintech)**
+- 👨‍🏫 Former coding instructor who taught **200+ students** programming and AI fundamentals
 
 ## 🚀 Project Highlights
 
@@ -68,8 +67,8 @@ Real-time full-stack platform with role-based workspaces for restaurant teams, c
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" />
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" />
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" />
-  <img height="48" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" title="Apache JMeter" alt="Apache JMeter" />
-  <img height="48" src="https://img.shields.io/badge/Katalon-0FAD84?style=for-the-badge&logo=katalon&logoColor=white" title="Katalon Studio" alt="Katalon Studio" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/apachejmeter/D22128" title="Apache JMeter" alt="Apache JMeter" />
+  <img width="48" height="48" src="https://api.iconify.design/logos/katalon-icon.svg" title="Katalon Studio" alt="Katalon Studio" />
 </p>
 
 ## 🔧 Tools & Platforms
