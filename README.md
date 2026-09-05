@@ -77,7 +77,7 @@ Real-time full-stack platform with role-based workspaces for restaurant teams, c
   <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" alt="Visual Studio Code" />
-  <img width="48" height="48" src="assets/jupyter-card.svg" title="Jupyter" alt="Jupyter" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=jupyter&theme=dark" title="Jupyter" alt="Jupyter" />
 </p>
 
 ---
