@@ -56,7 +56,7 @@ Real-time full-stack platform with role-based workspaces for restaurant teams, c
 <p align="center">
   <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Cloud Firestore" alt="Cloud Firestore" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" />
-  <img width="48" height="48" src="https://skill-icons-v2.vercel.app/api/icons?i=plsql&theme=dark" title="SQL" alt="SQL" />
+  <img height="48" src="https://img.shields.io/badge/SQL-242938?style=for-the-badge&labelColor=242938&color=242938" title="SQL" alt="SQL" />
   <img width="48" height="48" src="https://skill-icons-v2.vercel.app/api/icons?i=sqlserver&theme=dark" title="Microsoft SQL Server" alt="Microsoft SQL Server" />
 </p>
 
