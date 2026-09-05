@@ -1,51 +1,77 @@
 <div align="center">
 
-# Hello, I'm Asem Shaltout 👋
+# Hi, I'm Asem Shaltout 👋
 
 ### Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-shaltout)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemsherifshaltou@gmail.com)
+`Full-Stack Development` • `AI & Machine Learning` • `Software Testing`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-shaltout)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemsherifshaltout@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Languages
+## 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Software Engineering graduate with dual degrees from **MSA University** and the **University of Greenwich**. I build full-stack applications, develop AI-powered solutions, and create reliable automated test suites. I enjoy taking ideas from requirements and system design through implementation, validation, and deployment.
 
-## ⚙️ Frameworks
+- 💼 Software Engineering Intern at **eVision | Digital Financial Systems (Fintech)**
+- 🎓 B.Sc. in Computer Science — Software Engineering
+- 👨‍🏫 Former coding instructor who taught **200+ students** programming and AI fundamentals
+- 📍 Based in Giza, Egypt
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 🚀 Project Highlights
+
+### 🧠 PreDoc — Brain Stroke Prediction
+
+Dual-modality ML system that analyzes clinical records and MRI scans using **Random Forest** and **ResNet-50**. Achieved **96.35%** and **97.45%** accuracy, with the research published in **IEEE Xplore**.
+
+### 🍽️ Leila — Restaurant Operations Platform
+
+Real-time full-stack platform with role-based workspaces for restaurant teams, covering orders, payments, shifts, inventory, expenses, notifications, reporting, and production monitoring.
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,cs,html,css&theme=dark" alt="Python, JavaScript, C++, C#, HTML and CSS" />
+</p>
+
+## ⚙️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind&theme=dark" alt="React, Next.js, FastAPI and Tailwind CSS" />
+  <br />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
 
 ## 🗄️ Databases
 
-![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&theme=dark" alt="Cloud Firestore, MongoDB and SQL" />
+</p>
 
 ## 🧪 Testing
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Katalon Studio](https://img.shields.io/badge/Katalon_Studio-0FAD84?style=for-the-badge&logo=katalon&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Katalon-0FAD84?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon Studio" />
+</p>
 
-## 🔧 DevOps & Tools
+## 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,firebase,vercel,vscode&theme=dark" alt="Git, Firebase, Vercel and VS Code" />
+  <br />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Building thoughtful software, one problem at a time.</sub>
+</div>
