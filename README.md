@@ -17,7 +17,7 @@
 
 Software Engineering graduate with dual degrees from **MSA University** and the **University of Greenwich**. I build full-stack applications, develop AI-powered solutions, and create reliable automated test suites. I enjoy taking ideas from requirements and system design through implementation, validation, and deployment.
 
-- 💼 Software Engineering Intern at **eVision | Digital Financial Systems (Fintech)**
+- 💼 Completed a rotational Software Engineering internship at **eVision | Digital Financial Systems (Fintech)**
 - 🎓 B.Sc. in Computer Science — Software Engineering
 - 👨‍🏫 Former coding instructor who taught **200+ students** programming and AI fundamentals
 - 📍 Based in Giza, Egypt
@@ -35,39 +35,51 @@ Real-time full-stack platform with role-based workspaces for restaurant teams, c
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,cs,html,css&theme=dark" alt="Python, JavaScript, C++, C#, HTML and CSS" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript" alt="JavaScript" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" />
 </p>
 
 ## ⚙️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind&theme=dark" alt="React, Next.js, FastAPI and Tailwind CSS" />
-  <br />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" alt="Streamlit" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" />
 </p>
 
 ## 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&theme=dark" alt="Cloud Firestore, MongoDB and SQL" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Cloud Firestore" alt="Cloud Firestore" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" />
+  <img height="48" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" title="SQL" alt="SQL" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" />
 </p>
 
 ## 🧪 Testing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
-  <img src="https://img.shields.io/badge/Katalon-0FAD84?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon Studio" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" />
+  <img height="48" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" title="Apache JMeter" alt="Apache JMeter" />
+  <img height="48" src="https://img.shields.io/badge/Katalon-0FAD84?style=for-the-badge&logo=katalon&logoColor=white" title="Katalon Studio" alt="Katalon Studio" />
 </p>
 
 ## 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,firebase,vercel,vscode&theme=dark" alt="Git, Firebase, Vercel and VS Code" />
-  <br />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" alt="Visual Studio Code" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" />
 </p>
 
 ---
