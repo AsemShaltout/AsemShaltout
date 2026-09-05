@@ -4,8 +4,6 @@
 
 ### Software Engineer
 
-`Full-Stack Development` • `AI & Machine Learning` • `Software Testing`
-
 <a href="https://www.linkedin.com/in/asem-shaltout"><img width="44" height="44" src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=dark" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:asemsherifshaltout@gmail.com"><img width="44" height="44" src="https://skill-icons-v2.vercel.app/api/icons?i=gmail&theme=dark" title="Email" alt="Email" /></a>
 
